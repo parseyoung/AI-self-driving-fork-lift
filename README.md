@@ -6,13 +6,8 @@ Hardware로는 Turtlebot3을 이용하였습니다.
 ![image](https://github.com/parseyoung/AI-self-driving-fork-lift/assets/104110839/aa143451-b869-4d1e-9270-5da646a28b09)
 
 ## remotePC에 ROS-Melodic 설치
-$ sudo apt update
-
-$ sudo apt upgrade
-
-$ wget https://raw.githubusercontent.com/ROBOTIS-GIT/robotis_tools/master/install_ros_melodic.sh
-
-$ chmod 755 ./install_ros_melodic.sh 
-
-$ bash ./install_ros_melodic.sh
+$ sudo apt update $ sudo apt upgrade <br/>
+$ wget https://raw.githubusercontent.com/ROBOTIS-GIT/robotis_tools/master/install_ros_melodic.sh <br/>
+$ chmod 755 ./install_ros_melodic.sh <br/>
+$ bash ./install_ros_melodic.sh <br/>
 
