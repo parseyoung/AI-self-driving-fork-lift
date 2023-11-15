@@ -7,7 +7,7 @@ Hardware로는 Turtlebot3을 이용하였습니다.
 
 ## YOLO 환경 설정 
 ### JetPack-4.6 Jetston Nano 설정 후 tensorRT실행
-## CUDA 관련 환경 변수 설정
+CUDA 관련 환경 변수 설정   <br/>
 $ sudo jetson_clocks   <br/>
 $ sudo apt update  <br/>
 $ mkdir ${HOME}/project  <br/>
