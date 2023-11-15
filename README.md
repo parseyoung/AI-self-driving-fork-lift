@@ -6,5 +6,13 @@ Hardware로는 Turtlebot3을 이용하였습니다.
 ![image](https://github.com/parseyoung/AI-self-driving-fork-lift/assets/104110839/aa143451-b869-4d1e-9270-5da646a28b09)
 
 ## YOLO 환경 설정 
-### etPack-4.6 Jetston Nano 설정 후 tensorRT실행
-
+### JetPack-4.6 Jetston Nano 설정 후 tensorRT실행
+## CUDA 관련 환경 변수 설정
+$ sudo jetson_clocks   <br/>
+$ sudo apt update  <br/>
+$ mkdir ${HOME}/project  <br/>
+$ cd ${HOME}/project  <br/>
+$ git clone https://github.com/jkjung-avt/jetson_nano.git  <br/>
+$ cd jetson_nano  <br/>
+$ ./install_basics.sh  <br/>
+$ source ${HOME}/.bashrc  <br/>
