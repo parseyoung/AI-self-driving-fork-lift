@@ -7,8 +7,12 @@ Hardware로는 Turtlebot3을 이용하였습니다.
 
 ## remotePC에 ROS-Melodic 설치
 $ sudo apt update
+
 $ sudo apt upgrade
-$ wget https://raw.githubusercontent.com/ROBOTIS-GIT/robotis_tools/master
-/install_ros_melodic.sh
+
+$ wget https://raw.githubusercontent.com/ROBOTIS-GIT/robotis_tools/master/install_ros_melodic.sh
+
 $ chmod 755 ./install_ros_melodic.sh 
+
 $ bash ./install_ros_melodic.sh
+
