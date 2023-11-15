@@ -18,5 +18,5 @@ HW는 Turtlebot3을 이용하였습니다.
 https://youtu.be/ouQ4gAAJrfo?si=zlkwe3ENqTydHGay
 
 ## 자율 주행 시 객체 인식 시 정지 동영상
-
+https://youtu.be/rOM5wrVbamw?si=hkHS07feFcK0xiDe
 
