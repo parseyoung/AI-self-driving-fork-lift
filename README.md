@@ -14,9 +14,11 @@ HW는 Turtlebot3을 이용하였습니다.
 ## 센서 제어
 ![image](https://github.com/parseyoung/AI-self-driving-fork-lift/assets/104110839/b943209d-780f-442b-9da9-87b6b9a18694) <br/>
 
+## 자율 주행 시 객체 인식 시 정지 동영상
+https://youtu.be/rOM5wrVbamw?si=hkHS07feFcK0xiDe
+
 ## AI 자율주행 지게차 발표 자료
 https://youtu.be/ouQ4gAAJrfo?si=zlkwe3ENqTydHGay
 
-## 자율 주행 시 객체 인식 시 정지 동영상
-https://youtu.be/rOM5wrVbamw?si=hkHS07feFcK0xiDe
+
 
