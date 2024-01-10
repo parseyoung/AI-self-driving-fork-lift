@@ -21,7 +21,18 @@ https://youtu.be/rOM5wrVbamw?si=hkHS07feFcK0xiDe
 https://youtu.be/tESDmbcrpko?si=tnlsVCsaDRfMEsgZ
 
 ### AI 자율주행 지게차 발표 자료
-https://youtu.be/ouQ4gAAJrfo?si=zlkwe3ENqTydHGay
+https://youtu.be/ouQ4gAAJrfo?si=zlkwe3ENqTydHGay4
+
+
+
+
+
+
+
+
+
+
+###     
 
 
 
